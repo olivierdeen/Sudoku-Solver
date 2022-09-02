@@ -10,6 +10,8 @@ This sudoku solver iterated local search, more specifically the hill climbing al
 long a number of random swaps is done. The sudoku's current score is calculated by summing over the number of repeated numbers in each row and column.
 The goal is to get the score to 0.
 
+The completed sudoku is printed at the end of the run.
+
 ## Parameters
 
 There are several parameters that can be changed:
