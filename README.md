@@ -1,16 +1,32 @@
 # Sudoku Solver
 
 The sudoku grid to be solved should be input as follows:
-0 0 6 0 2 0 3 0 0 1 0 0 6 0 5 0 0 9 0 0 9 8 0 3 4 0 0 0 0 8 9 0 2 1 0 0 7 0 0 0 0 0 0 0 8 0 0 3 7 0 8 2 0 0 0 0 2 3 0 1 5 0 0 8 0 0 2 0 6 0 0 1 0 0 5 0 9 0 6 0 0
+006020300100605009009803400008902100700000008003708200002301500800206001005090600
 
-For clarity spaces have been added between numbers, but the actual input should be without whitespaces.
 Empty grids are denoted with a 0. All other grids have a value between 1 and 9.
 
 This sudoku solver iterated local search, more specifically the hill climbing algorithm. To avoid getting stuck in a local optimum, if the score plateau's for too
 long a number of random swaps is done. The sudoku's current score is calculated by summing over the number of repeated numbers in each row and column.
 The goal is to get the score to 0.
 
-The completed sudoku is printed at the end of the run.
+The completed sudoku with score for each row and columns is printed at the end of the run:
+
+486|129|357| 0
+137|645|829| 0
+259|873|416| 0
+------------
+548|962|173| 0
+721|534|968| 0
+963|718|245| 0
+------------
+672|381|594| 0
+894|256|731| 0
+315|497|682| 0
+------------
+
+000000000
+
+Total score is: 0
 
 ## Parameters
 
