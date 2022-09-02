@@ -11,7 +11,7 @@ The goal is to get the score to 0.
 
 The completed sudoku with score for each row and columns is printed at the end of the run:
 
-486|129|357| 0
+<486|129|357| 0
 137|645|829| 0
 259|873|416| 0
 \-\-\-\-\-\-\-\-\-\-\-\-
@@ -22,7 +22,7 @@ The completed sudoku with score for each row and columns is printed at the end o
 672|381|594| 0
 894|256|731| 0
 315|497|682| 0
-\-\-\-\-\-\-\-\-\-\-\-\-
+\-\-\-\-\-\-\-\-\-\-\-\->
 
 000000000
 
