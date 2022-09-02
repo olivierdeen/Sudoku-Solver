@@ -1,0 +1,10 @@
+C:\Users\olivi\source\repos\SudokuSolver\SudokuSolver\bin\Debug\netcoreapp3.0\SudokuSolver.exe
+C:\Users\olivi\source\repos\SudokuSolver\SudokuSolver\bin\Debug\netcoreapp3.0\SudokuSolver.deps.json
+C:\Users\olivi\source\repos\SudokuSolver\SudokuSolver\bin\Debug\netcoreapp3.0\SudokuSolver.runtimeconfig.json
+C:\Users\olivi\source\repos\SudokuSolver\SudokuSolver\bin\Debug\netcoreapp3.0\SudokuSolver.runtimeconfig.dev.json
+C:\Users\olivi\source\repos\SudokuSolver\SudokuSolver\bin\Debug\netcoreapp3.0\SudokuSolver.dll
+C:\Users\olivi\source\repos\SudokuSolver\SudokuSolver\bin\Debug\netcoreapp3.0\SudokuSolver.pdb
+C:\Users\olivi\source\repos\SudokuSolver\SudokuSolver\obj\Debug\netcoreapp3.0\SudokuSolver.AssemblyInfoInputs.cache
+C:\Users\olivi\source\repos\SudokuSolver\SudokuSolver\obj\Debug\netcoreapp3.0\SudokuSolver.AssemblyInfo.cs
+C:\Users\olivi\source\repos\SudokuSolver\SudokuSolver\obj\Debug\netcoreapp3.0\SudokuSolver.dll
+C:\Users\olivi\source\repos\SudokuSolver\SudokuSolver\obj\Debug\netcoreapp3.0\SudokuSolver.pdb
